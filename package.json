@@ -1,0 +1,12 @@
+{
+  "name": "lebato-broza",
+  "version": "2.1.0",
+  "description": "Lebato Broza social network",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
